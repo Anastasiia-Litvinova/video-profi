@@ -371,7 +371,12 @@ img {
 .hero-text {
   color: #ffffff;
   font-weight: 500;
-  font-size: medium;
+  font-size: 22px;
+}
+
+.hero-since {
+  color: #f5f4fa;
+  font-style: italic;
 }
 
 @media screen and (max-width: 479px) {
@@ -628,6 +633,17 @@ img {
   bottom: 0;
   left: 0;
   background-color: rgba(47, 48, 58, 0.8);
+}
+
+.why-us-list {
+  display: inline-block;
+  text-align: left;
+}
+
+.why-us-items {
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: 5px;
 }
 
 .pictures-list-text {

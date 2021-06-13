@@ -343,6 +343,12 @@ img {
   text-align: center;
 }
 
+.works-text-main {
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
 .works-text {
   font-size: large;
   text-align: center;
@@ -502,6 +508,18 @@ img {
   text-align: left;
 }
 
+.price {
+  font-weight: bold;
+  font-size: 23px;
+  text-align: center;
+  margin: 0;
+  margin-top: 5px;
+  margin-bottom: 35px;
+}
+
+.price-list {
+  margin-bottom: 260px;
+}
 @media screen and (min-width: 768px) {
   .portfolio-text {
     padding: 49px 24px;
